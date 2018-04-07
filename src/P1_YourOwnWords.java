@@ -17,18 +17,20 @@ x < y
 
 /* 1. 
 -- Your conditional expression
-
+y > z
 
 -- Your test values for x, y, z and do you expect true or false?
-
+1, 2, 3 -> TRUE
+3, 2, 1 -> False
 */
 
 /* 2. 
 -- Your conditional expression
-
+x < y
 
 -- Your test values for x, y, z and do you expect true or false?
-
+1, 2, 3 -> TRUE
+3, 2, 1 -> False
 */
 
 /* 3.  

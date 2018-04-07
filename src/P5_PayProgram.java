@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /*
 	ISYS 320
-	Name(s):
+	Name(s): Gabriel Lopez
 	Date: 
 */
 
